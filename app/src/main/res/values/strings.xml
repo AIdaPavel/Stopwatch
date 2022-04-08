@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Stopwatch</string>
+    <string name="start_time">00:00:000</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="Result">Результат:</string>
+    <string name="search">Поиск</string>
+    <string name="start_flow">Запустить Flow</string>
 </resources>
